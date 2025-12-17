@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-docker-nexus.apps.cluster-wm7t4.wm7t4.sandbox867.opentlc.com/rhtap/dotnet-basic-qsdqktei:583e09c26473018d4de2d3ac50d26ff7cecf7903@sha256:98ed728cca9f87f87368dbafeef04b6ff9258ab129807730da7366b522651c9d
+        - image: nexus-docker-nexus.apps.cluster-wm7t4.wm7t4.sandbox867.opentlc.com/rhtap/dotnet-basic-qsdqktei:08b384be6a48146bbd36b6731fa93935f276cfc8@sha256:9251274f322b584f365eb14691614f9e521dd696fdc7540b6ef00e6221ea6919
           name: container-image
